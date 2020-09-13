@@ -147,3 +147,4 @@ You need to personalize your own config with the following information:
 
 
     
+[![Run on Repl.it](https://repl.it/badge/github/c3duan/Swag-Bot)](https://repl.it/github/c3duan/Swag-Bot)
